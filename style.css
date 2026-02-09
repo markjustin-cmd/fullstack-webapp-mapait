@@ -1,0 +1,9 @@
+.navbar-brand {
+  font-weight: bold;
+}
+.custom-brand {
+  margin-left: 0;
+  text-align: left;
+  font-size: 20px;
+  font-weight: bold;
+}
